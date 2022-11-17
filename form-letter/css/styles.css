@@ -1,0 +1,16 @@
+#story{
+  display: none;
+}
+span{
+  color: blue;
+  font-weight: bold;
+}
+.day1{
+  margin-left: 120px;
+}
+.day3{
+  margin-left: 120px;
+}
+.day5{
+  margin-left: 120px;
+}
