@@ -1,0 +1,25 @@
+body{
+  background-image: url(../img/photo-1553095066-5014bc7b7f2d.jpg);
+}
+.potter, .micheal, .selena, .myers{
+  margin-left: 600px;
+  display: none
+}
+#harry, #micheal, #selena, #myers{
+  margin-left: 600px;
+}
+button{
+  background-color: red;
+  border: none;
+  border-radius: 5px;
+}
+#character{
+  color: white;
+}
+h1{
+  color: white;
+}
+#sam{
+  height: 300px;
+  width: 300px;
+}
